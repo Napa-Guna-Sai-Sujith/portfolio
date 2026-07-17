@@ -37,6 +37,8 @@ I am a Computer Science Engineering student passionate about bridging the gap be
 Here is a summary of the projects showcased in this portfolio. You can view the live projects by clicking the links.
 
 ### 🌟 Featured Highlights
+*   **Little Ray Interio — Premium Home Interior Platform** | [Live Demo](https://littleray.vercel.app/)
+    *   *End-to-end home interior design and execution platform tailored for South Indian homes, featuring real-time state-level service maps and warranty dashboards.*
 *   **ChainMed — Blockchain Drug Traceability Platform** | [Live Demo](https://pro1-g6ve.vercel.app/)
     *   *A secure blockchain-based drug traceability platform designed to verify supply chain authenticity and prevent counterfeit pharmaceuticals.*
 *   **PayMock — Developer Payment Gateway** | [Live Demo](https://mockpayment.vercel.app/)
