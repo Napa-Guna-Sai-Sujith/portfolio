@@ -37,6 +37,8 @@ I am a Computer Science Engineering student passionate about bridging the gap be
 Here is a summary of the projects showcased in this portfolio. You can view the live projects by clicking the links.
 
 ### 🌟 Featured Highlights
+*   **HumanDoc — AI Document Rewrite Platform** | [Live Demo](https://humandoc.vercel.app/)
+    *   *AI-powered document rewriting platform that naturalizes text to sound human-written while preserving exact layout, formatting, fonts, and page geometry across PDF, DOCX, PPTX, and Markdown.*
 *   **Little Ray Interio — Premium Home Interior Platform** | [Live Demo](https://littleray.vercel.app/)
     *   *End-to-end home interior design and execution platform tailored for South Indian homes, featuring real-time state-level service maps and warranty dashboards.*
 *   **ChainMed — Blockchain Drug Traceability Platform** | [Live Demo](https://pro1-g6ve.vercel.app/)
